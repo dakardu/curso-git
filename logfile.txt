@@ -4,4 +4,4 @@ este es un programa de prueba  para verificar que el compilador funcione correct
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-Agregamos mas contenido para realizar prueba de pull request teniendo como colaborador mi otra cuenta de gmail
+Agregamos más contenido para realizar prueba de pull request teniendo como colaborador mi otra cuenta de gmail
